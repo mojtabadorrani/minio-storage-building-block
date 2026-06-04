@@ -70,7 +70,7 @@ Before running the project, make sure the following tools are installed:
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mojtabadorrani/minio-storage-building-block.git
 
 cd minio-storage-building-block
 ```
