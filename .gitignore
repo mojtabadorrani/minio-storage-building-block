@@ -1,0 +1,36 @@
+# Visual Studio / Rider
+
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+
+bin/
+obj/
+
+# Logs
+
+logs/
+*.log
+
+# NuGet
+
+packages/
+*.nupkg
+
+# ASP.NET
+
+appsettings.Development.json
+
+# Test results
+
+TestResults/
+
+# OS
+
+Thumbs.db
+Desktop.ini

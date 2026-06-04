@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MinioStorage.BuildingBlock/MinioStorage.BuildingBlock.csproj" />
+    <Project Path="src/MinioStorage.DemoApi/MinioStorage.DemoApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MinioStorage.BuildingBlock.UnitTests/MinioStorage.BuildingBlock.UnitTests.csproj" />
+    <Project Path="tests/MinioStorage.IntegrationTests/MinioStorage.IntegrationTests.csproj" />
+  </Folder>
+</Solution>

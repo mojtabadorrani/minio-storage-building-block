@@ -1,0 +1,6 @@
+@MinioStorage.DemoApi_HostAddress = http://localhost:5250
+
+GET {{MinioStorage.DemoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
