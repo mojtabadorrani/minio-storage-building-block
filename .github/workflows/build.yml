@@ -29,5 +29,5 @@ jobs:
       - name: Build
         run: dotnet build MinioStorage.BuildingBlock.slnx --configuration Release --no-restore
 
-      - name: Test
-        run: dotnet test MinioStorage.BuildingBlock.slnx --configuration Release --no-build
+      - name: Run Unit Tests
+        run: dotnet test tests/MinioStorage.BuildingBlock.UnitTests/MinioStorage.BuildingBlock.UnitTests.csproj --configuration Release --no-build
